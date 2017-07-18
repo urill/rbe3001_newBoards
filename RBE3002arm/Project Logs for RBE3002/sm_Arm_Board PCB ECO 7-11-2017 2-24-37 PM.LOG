@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=1 NewDesignator=INA826AIDR
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetINA826AIDR_1
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetINA826AIDR_2
+Change Net Name : Old Net Name=Net1_3 New Net Name=NetINA826AIDR_3
+Change Net Name : Old Net Name=Net1_4 New Net Name=NetINA826AIDR_4
+Change Net Name : Old Net Name=Net1_5 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Net1_7 New Net Name=NetHDMI_hdmi_12
+Added Room: Name=sm_Arm_Board

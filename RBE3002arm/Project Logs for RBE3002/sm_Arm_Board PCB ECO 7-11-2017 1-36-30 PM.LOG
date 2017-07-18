@@ -1,0 +1,16 @@
+Added Component: Designator=3PinSM(4PinSM)
+Added Component: Designator=4Pin SM(SOIC127P370X135-2N)
+Added Pin To Net: NetName=MOTOR_VCC Pin=3PinSM-3P1
+Added Pin To Net: NetName=MOTOR_GND Pin=3PinSM-3P2
+Added Pin To Net: NetName=MOTOR_SIG Pin=3PinSM-3P3
+Added Pin To Net: NetName=Net4Pin SM_4P1 Pin=4Pin SM-4P1
+Added Pin To Net: NetName=Net4Pin SM_4P1 Pin=4Pin SM-4P1
+Added Pin To Net: NetName=Net4Pin SM_4P2 Pin=4Pin SM-4P2
+Added Pin To Net: NetName=Net4Pin SM_4P2 Pin=4Pin SM-4P2
+Added Pin To Net: NetName=Net4Pin SM_4P3 Pin=4Pin SM-4P3
+Added Pin To Net: NetName=Net4Pin SM_4P3 Pin=4Pin SM-4P3
+Added Pin To Net: NetName=VCC Pin=4Pin SM-4P4
+Added Pin To Net: NetName=VCC Pin=4Pin SM-4P4
+Added Member To Class: ClassName=sm_Arm_Board Member=Component 3PinSM Motor
+Added Member To Class: ClassName=sm_Arm_Board Member=Component 4Pin SM LoadCell
+Added Room: Name=sm_Arm_Board

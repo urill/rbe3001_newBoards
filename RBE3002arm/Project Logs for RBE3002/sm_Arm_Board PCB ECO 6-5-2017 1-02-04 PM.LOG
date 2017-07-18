@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetAS5050A_1 Pin=HDMI-hdmi_13
+Removed Pin From Net: NetName=NetAS5050A_2 Pin=HDMI-hdmi_14
+Removed Pin From Net: NetName=NetAS5050A_3 Pin=HDMI-hdmi_15
+Removed Pin From Net: NetName=NetAS5050A_4 Pin=HDMI-hdmi_16
+Added Pin To Net: NetName=NetAS5050A_4 Pin=HDMI-hdmi_13
+Added Pin To Net: NetName=NetAS5050A_3 Pin=HDMI-hdmi_14
+Added Pin To Net: NetName=NetAS5050A_2 Pin=HDMI-hdmi_15
+Added Pin To Net: NetName=NetAS5050A_1 Pin=HDMI-hdmi_16
+Added Room: Name=sm_Arm_Board

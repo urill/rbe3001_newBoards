@@ -1,0 +1,14 @@
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Pin To Net: NetName=NetLoadCell_1 Pin=R1-1
+Added Pin To Net: NetName=Net1_1 Pin=R1-2
+Added Pin To Net: NetName=NetLoadCell_3 Pin=R2-1
+Added Pin To Net: NetName=Net1_4 Pin=R2-2
+Added Pin To Net: NetName=NetAS5050A_12 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Member To Class: ClassName=sm_Arm_Board Member=Component Amp_Pot Header 2
+Added Member To Class: ClassName=sm_Arm_Board Member=Component R1 Res3
+Added Member To Class: ClassName=sm_Arm_Board Member=Component R2 Res3
+Added Member To Class: ClassName=sm_Arm_Board Member=Component R3 Res3
+Added Room: Name=sm_Arm_Board

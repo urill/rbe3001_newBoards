@@ -1,0 +1,3 @@
+Added Component: Designator=HDMI(685119136923)
+Added Member To Class: ClassName=sm_Arm_Board Member=Component HDMI HDMI_Connector
+Added Room: Name=sm_Arm_Board

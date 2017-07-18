@@ -1,0 +1,20 @@
+Added Component: Designator=HDMI(685119136923)
+Added Pin To Net: NetName=MOTOR_VCC Pin=HDMI-hdmi_1
+Added Pin To Net: NetName=MOTOR_VCC Pin=HDMI-hdmi_2
+Added Pin To Net: NetName=MOTOR_VCC Pin=HDMI-hdmi_3
+Added Pin To Net: NetName=MOTOR_GND Pin=HDMI-hdmi_4
+Added Pin To Net: NetName=MOTOR_GND Pin=HDMI-hdmi_5
+Added Pin To Net: NetName=MOTOR_GND Pin=HDMI-hdmi_6
+Added Pin To Net: NetName=MOTOR_SIG Pin=HDMI-hdmi_7
+Added Pin To Net: NetName=MOTOR_SIG Pin=HDMI-hdmi_8
+Added Pin To Net: NetName=MOTOR_SIG Pin=HDMI-hdmi_9
+Added Pin To Net: NetName=Net1_7 Pin=HDMI-hdmi_12
+Added Pin To Net: NetName=NetAS5050A_4 Pin=HDMI-hdmi_13
+Added Pin To Net: NetName=NetAS5050A_3 Pin=HDMI-hdmi_14
+Added Pin To Net: NetName=NetAS5050A_2 Pin=HDMI-hdmi_15
+Added Pin To Net: NetName=NetAS5050A_1 Pin=HDMI-hdmi_16
+Added Pin To Net: NetName=GND Pin=HDMI-hdmi_17
+Added Pin To Net: NetName=VCC Pin=HDMI-hdmi_18
+Added Pin To Net: NetName=GND Pin=HDMI-hdmi_19
+Added Member To Class: ClassName=sm_Arm_Board Member=Component HDMI HDMI_Connector
+Added Room: Name=sm_Arm_Board

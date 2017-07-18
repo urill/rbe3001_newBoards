@@ -1,0 +1,14 @@
+Added Component: Designator=AS5050A(AS5050A)
+Added Pin To Net: NetName=NetAS5050A_1 Pin=AS5050A-1
+Added Pin To Net: NetName=NetAS5050A_2 Pin=AS5050A-2
+Added Pin To Net: NetName=NetAS5050A_3 Pin=AS5050A-3
+Added Pin To Net: NetName=NetAS5050A_4 Pin=AS5050A-4
+Added Pin To Net: NetName=GND Pin=AS5050A-9
+Added Pin To Net: NetName=Netadd_out_3 Pin=AS5050A-10
+Added Pin To Net: NetName=VCC Pin=AS5050A-11
+Added Pin To Net: NetName=NetAS5050A_12 Pin=AS5050A-12
+Added Pin To Net: NetName=GND Pin=AS5050A-13
+Added Pin To Net: NetName=VCC Pin=AS5050A-14
+Added Pin To Net: NetName=Netadd_out_4 Pin=AS5050A-15
+Added Member To Class: ClassName=sm_Arm_Board Member=Component AS5050A
+Added Room: Name=sm_Arm_Board
